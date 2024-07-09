@@ -22,14 +22,14 @@ I'm an aspiring front-end developer with a passion for creating beautiful and fu
     </table>
 <p><b>&#127757; My homeland</b></p>
 <table style="border-collapse: collapse;">
-        <tr>
+        <tr style="border: none;">
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-russia.png" height="32"></td>
             <td style="border: none; padding: 10px;"><p>Russian Federation</p></td>
         </tr>
 </table>
 <h4><b>&#128205; My current location</b></h4>
 <table style="border-collapse: collapse;">
-        <tr>
+        <tr style="border: none;">
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-location-2.png" height="32"></td>
             <td style="border: none; padding: 10px;"><p>Saint-Petersburg</p></td>
         </tr>
