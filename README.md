@@ -1,5 +1,5 @@
 <h1 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 &#128075</h1>
-<img align="center" src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/>
+<h2 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h2>
 <h3 align="center" style="color: #ff00ff ">Junior frontend developer</h3>
 <h4>&#127993 My inspiration</h4>
 <p>I'm an aspiring front-end developer with a passion for creating beautiful and functional web interfaces. I constantly learn new technologies and strive to improve my skills &#128187;</p>
