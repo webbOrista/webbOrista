@@ -20,7 +20,7 @@ I'm an aspiring front-end developer with a passion for creating beautiful and fu
         </tr>
         <tbody/>
     </table>
-<p><b>&#127757; My homeland</b></p>
+<h4>&#127757; My homeland</h4>
 <table style="border-collapse: collapse;">
         <tr style="border: none;">
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-russia.png" height="32"></td>
