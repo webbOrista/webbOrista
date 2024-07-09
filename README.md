@@ -1,13 +1,11 @@
 <h1 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 &#128075</h1>
-<h2 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h2>
+<img align="center" src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/>
 <h3 align="center" style="color: #ff00ff ">Junior frontend developer</h3>
-<h4><b>&#127993 My inspiration</b></h4>
-<p>
-I'm an aspiring front-end developer with a passion for creating beautiful and functional web interfaces. I constantly learn new technologies and strive to improve my skills &#128187;
-</p>
-<h4><b>&#128218 I’m currently learning</b></h4>
+<h4>&#127993 My inspiration</h4>
+<p>I'm an aspiring front-end developer with a passion for creating beautiful and functional web interfaces. I constantly learn new technologies and strive to improve my skills &#128187;</p>
+<h4>&#128218 I’m currently learning</h4>
 <p>The full power of REACT &#129470;</p>
-<h4><b>&#128208 Languages & tools I use</b></h4>
+<h4>&#128208 Languages & tools I use</h4>
 <table style="border-collapse: collapse;">
         <tbody style="border: none;">
         <tr style="border: none;">
@@ -27,7 +25,7 @@ I'm an aspiring front-end developer with a passion for creating beautiful and fu
             <td style="border: none; padding: 10px;"><p>Russian Federation</p></td>
         </tr>
 </table>
-<h4><b>&#128205; My current location</b></h4>
+<h4>&#128205; My current location</h4>
 <table style="border-collapse: collapse;">
         <tr style="border: none;">
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-spb.png" height="32"></td>
