@@ -1,6 +1,6 @@
-<h2 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 </h2>
-<img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/>
-<p align="center" style="color: #ff00ff;">Junior frontend developer</p>
+<h1 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 &#128075</h1>
+<h2 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h2>
+<h3 align="center" style="color: #ff00ff ">Junior frontend developer</h3>
 <h4><b>&#127993 My inspiration</b></h4>
 <p>
 I'm an aspiring front-end developer with a passion for creating beautiful and functional web interfaces. I constantly learn new technologies and strive to improve my skills &#128187;
@@ -9,7 +9,7 @@ I'm an aspiring front-end developer with a passion for creating beautiful and fu
 <p>The full power of REACT &#129470;</p>
 <h4><b>&#128208 Languages & tools I use</b></h4>
 <table style="border-collapse: collapse;">
-        <tr style="border: none;">
+        <tr>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-html.svg" width="85" height="100"></td>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-css.svg" width="85" height="100"></td>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-javascript.svg" width="85" height="100"></td>
@@ -19,7 +19,12 @@ I'm an aspiring front-end developer with a passion for creating beautiful and fu
         </tr>
     </table>
 <p><b>&#127757; My homeland</b></p>
-<div style="display: flex; align-items: center;"><img src="./assets/icons/icon-russia.png" height="32" style="display: flex;"><p style="display: flex;"> Russian Federation</p></div>
+<table style="border-collapse: collapse;">
+        <tr>
+            <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-russia.png" height="32"></td>
+            <td style="border: none; padding: 10px;"><p> Russian Federation</p></td>
+        </tr>
+</table>
 <h4><b>&#128205; My current location</b></h4>
 <div style="display: flex; align-items: center;"><img src="./assets/icons/icon-location-2.png" height="32" style="display: flex;"><p style="display: flex;">Saint-Petersburg</p></div>
 <a href="mailto:butorinb.g.main@gmail.com" style="text-decoration: none !important; color: white !important;">&#128231; e-mail me</a><br>
