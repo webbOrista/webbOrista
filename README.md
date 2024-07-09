@@ -28,7 +28,7 @@
 <h4>&#128205; My current location</h4>
 <table style="border-collapse: collapse;">
         <tr style="border: none;">
-            <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-spb.png" height="32"></td>
+            <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-brige.png" height="32"></td>
             <td style="border: none; padding: 10px;"><p>Saint-Petersburg</p></td>
         </tr>
 </table>
