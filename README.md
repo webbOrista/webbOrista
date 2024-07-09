@@ -1,4 +1,4 @@
-<h1 align="center">​🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​🇧​​🇴​​🇷​​🇮​​🇸​<img src="./assets/icons/icon-code.png" height="32"/></h1> assets/icons/icon-code.png
+<h1 align="center">​🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​🇧​​🇴​​🇷​​🇮​​🇸 ​<img src="./assets/icons/icon-code.png" height="32" style="vertical-align: middle;"/></h1> assets/icons/icon-code.png 
 <h3 align="center" style="color: magenta;">Junior frontend developer</h3>
 <h4><b>&#127993 My inspiration</b></h4>
 <p>
