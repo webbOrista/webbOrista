@@ -14,8 +14,8 @@
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-javascript.svg" width="85" height="100"></td>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-typescript.svg" width="85" height="85"></td>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-react.svg" width="100" height="100"></td>
-            <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-webpack.svg" width="100" height="100"></td>
             <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-redux.svg" width="100" height="100"></td>
+            <td style="border: none; padding: 10px;"><img src="./assets/icons/icon-webpack.svg" width="100" height="100"></td>
         </tr>
         <tbody/>
     </table>
