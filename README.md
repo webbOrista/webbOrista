@@ -33,6 +33,6 @@
             <td style="border: none; padding: 10px;"><p>Saint-Petersburg</p></td>
         </tr>
 </table>
-<a href="mailto:butorinb.g.main@gmail.com" target="_blank">&#128231; e-mail me</a><br>
+<a href="mailto:borisbutorin.main@gmail.com" target="_blank">&#128231; e-mail me</a><br>
 <a href="https://t.me/Boris_Butorin" target="_blank">&#128172; contact me</a>
 
