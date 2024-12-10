@@ -1,10 +1,11 @@
 <h1 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 &#128075</h1>
 <h3 align="center" style="color: #ff00ff ">Frontend developer</h3>
 <h3 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h3>
-<h4>&#128161 My inspiration</h4>
-<p>I'm an aspiring front-end developer with a passion for creating beautiful and functional web interfaces. I constantly learn new technologies and strive to improve my skills &#128187;</p>
-<h4>&#128218 I’m currently learning</h4>
-<p>The full power of REACT &#129470;</p>
+<h4>&#128161 Briefly about me</h4>
+<p>I develop the interface of the platform for marketplace analytics at RocketSeller and teach JavaScript at the JetCode network of programming schools.</p>
+<p>I love frontend for the opportunity to combine engineering logic with creativity.</p>
+<p>I am inspired by the convenience of development and the speed of applications on React. I am actively learning myself and sharing my knowledge as a mentor.</p>
+<p>I am always open to new career opportunities!</p>
 <h4>&#128208 Languages & tools I use</h4>
 <table style="border-collapse: collapse;">
         <tbody style="border: none;">
