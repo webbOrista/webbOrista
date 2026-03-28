@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Boris &#128075</h1>
 <h3 align="center" style="color: #ff00ff ">Frontend developer</h3>
 <h3 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h3>
-<h4 align="center">&#128161 Briefly about me</h4>
+<h4>&#128161 Briefly about me</h4>
 <p>I develop interfaces and always use the latest technologies to stay on top of progress.</p>
 <p>I love frontend for the opportunity to combine engineering logic with creativity.</p>
 <p>I am inspired by the convenience of development and the speed of applications on React.</p>
