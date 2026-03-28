@@ -1,4 +1,4 @@
-<h1 align="center">🇭🇮 🇹🇭🇪🇷🇪, 🇮❜🇲 🇧🇴🇷🇮🇸 &#128075</h1>
+<h1 align="center">Hi I'm Boris &#128075</h1>
 <h3 align="center" style="color: #ff00ff ">Frontend developer</h3>
 <h3 align="center"><img src="./assets/icons/icon-code.png" style="vertical-align: middle;" height="32"/></h3>
 <h4>&#128161 Briefly about me</h4>
